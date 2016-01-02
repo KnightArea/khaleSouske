@@ -2,7 +2,6 @@
 {
 	import flash.display.MovieClip;
 	
-	import khalecouske.cod.Player;
 
 	public var PlayerHitMC : MovieClip;
 	public var FootMC : MovieClip;
