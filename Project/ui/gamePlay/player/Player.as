@@ -1,4 +1,4 @@
-﻿package ui.gamePlay.player;
+﻿package ui.gamePlay.player
 {
 	import flash.display.MovieClip;
 	
