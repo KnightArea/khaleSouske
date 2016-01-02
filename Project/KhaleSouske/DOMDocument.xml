@@ -1,12 +1,12 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="480" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" viewAngle3D="81.8905827822219" vanishingPoint3DX="240" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="480" frameRate="30" currentTimeline="1" xflVersion="2.6" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 15.0 build 179" majorVersion="15" buildNumber="179" rulerVisible="true" viewAngle3D="81.8905827822219" vanishingPoint3DX="240" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <media>
-          <DOMBitmapItem name="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" itemID="56ab87cf-00000208" sourceExternalFilepath="./LIBRARY/flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" sourceLastImported="1451496828" externalFileSize="82709" originalCompressionType="lossless" quality="50" href="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" bitmapDataHRef="M 1 1454081437.dat" frameRight="16000" frameBottom="12000"/>
-          <DOMBitmapItem name="kale-sooske.png" itemID="56ab87cf-00000209" sourceExternalFilepath="./LIBRARY/kale-sooske.png" sourceLastImported="1451497632" externalFileSize="98292" originalCompressionType="lossless" quality="50" href="kale-sooske.png" bitmapDataHRef="M 2 1454081561.dat" frameRight="17040" frameBottom="17040"/>
+          <DOMBitmapItem name="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" itemID="56ab87cf-00000208" sourceExternalFilepath="../KhaleSouske/LIBRARY/flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" sourceLastImported="1451750584" externalFileSize="82709" originalCompressionType="lossless" quality="50" href="flower-land-mountain-landscape-game-background-game-assets-gui-sidescroller-horizontal-wallpaper-side-scrolling-mobile-games.png" bitmapDataHRef="M 1 1454081437.dat" frameRight="16000" frameBottom="12000"/>
+          <DOMBitmapItem name="kale-sooske.png" itemID="56ab87cf-00000209" sourceExternalFilepath="../KhaleSouske/LIBRARY/kale-sooske.png" sourceLastImported="1451750585" externalFileSize="98292" originalCompressionType="lossless" quality="50" href="kale-sooske.png" bitmapDataHRef="M 2 1454081561.dat" frameRight="17040" frameBottom="17040"/>
      </media>
      <symbols>
           <Include href="Foot_mc.xml" loadImmediate="false" itemID="56adca07-000001e7" lastModified="1454230023"/>
           <Include href="Left.xml" itemIcon="0" loadImmediate="false" itemID="56ab8a07-00000211" lastModified="1454082609"/>
-          <Include href="Player.xml" itemID="56ab8722-000001de" lastModified="1454334278"/>
+          <Include href="Player.xml" itemID="56ab8722-000001de" lastModified="1451751228"/>
           <Include href="PlayerHit_mc.xml" loadImmediate="false" itemID="56adc92e-000001d9" lastModified="1454334245"/>
           <Include href="Right.xml" itemIcon="0" loadImmediate="false" itemID="56ab8920-0000020b" lastModified="1454082544"/>
      </symbols>
@@ -31,7 +31,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="PlayerHit_mc" symbolType="button">
+                                        <DOMSymbolInstance libraryItemName="PlayerHit_mc">
                                              <matrix>
                                                   <Matrix tx="97.55" ty="364.25"/>
                                              </matrix>
@@ -63,16 +63,23 @@
           </DOMTimeline>
      </timelines>
      <persistentData>
-          <PD n="flash.fla.filepath" v="E:/Flash/Sample/khaleSouske/Project/KhaleSouske/KhaleSouske.xfl"/>
-          <PD n="swf.folder.path" v="E:/Flash/Sample/khaleSouske/Project/"/>
-          <PD n="com.air.artemis.pubipa" v="false"/>
-          <PD n="com.air.artemis.pubair" v="true"/>
-          <PD n="flash.swf.basename" v="KhaleSouske"/>
-          <PD n="com.air.sdk.path" v="E:\Program Files\AIRSDK_Compiler18"/>
           <PD n="com.air.artemis.airdest" v="KhaleSouske.apk"/>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\seven\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.sdk.path" v="D:\software\air18"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="flash.swf.basename" v="KhaleSouske"/>
+          <PD n="swf.folder.path" v="E:/Flash/Sample/khaleSouske/Project/"/>
+          <PD n="flash.fla.filepath" v="E:/Flash/Sample/khaleSouske/Project/KhaleSouske/KhaleSouske.xfl"/>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="119495" publishTime="1451751484"/>
+          <PublishItem publishSize="119443" publishTime="1451751338"/>
+          <PublishItem publishSize="119574" publishTime="1451751286"/>
+          <PublishItem publishSize="119072" publishTime="1451751236"/>
+          <PublishItem publishSize="119453" publishTime="1451750708" publishDebug="true"/>
+          <PublishItem publishSize="119453" publishTime="1451750603"/>
           <PublishItem publishSize="120106" publishTime="1454334477"/>
           <PublishItem publishSize="120109" publishTime="1454334327"/>
           <PublishItem publishSize="120108" publishTime="1454334281"/>
@@ -87,11 +94,5 @@
           <PublishItem publishSize="119714" publishTime="1454332334" publishDebug="true"/>
           <PublishItem publishSize="119714" publishTime="1454332311"/>
           <PublishItem publishSize="119714" publishTime="1454332309" publishDebug="true"/>
-          <PublishItem publishSize="119661" publishTime="1454331509" publishDebug="true"/>
-          <PublishItem publishSize="119663" publishTime="1454331502"/>
-          <PublishItem publishSize="119723" publishTime="1454322706"/>
-          <PublishItem publishSize="119723" publishTime="1454322703" publishDebug="true"/>
-          <PublishItem publishSize="119714" publishTime="1454322616"/>
-          <PublishItem publishSize="119713" publishTime="1454322520"/>
      </publishHistory>
 </DOMDocument>
