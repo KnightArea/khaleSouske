@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Player" itemID="56ab8722-000001de" linkageExportForAS="true" linkageClassName="ui.gamePlay.player.Player" lastModified="1454230106">
+  <timeline>
+    <DOMTimeline name="Player" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;-90&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Action" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="kale-sooske.png">
+                  <matrix>
+                    <Matrix a="0.212539672851563" d="0.212539672851563" tx="-90.55" ty="-90.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="426.05" y="426.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="kale-sooske.png">
+                  <matrix>
+                    <Matrix a="-0.212646484375" d="0.212539672851563" tx="90.6" ty="-90.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="426.05" y="426.05"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
