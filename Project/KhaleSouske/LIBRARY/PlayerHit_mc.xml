@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayerHit_mc" itemID="56adc92e-000001d9" lastModified="1454230106">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayerHit_mc" itemID="56adc92e-000001d9" lastModified="1454334245">
   <timeline>
-    <DOMTimeline name="PlayerHit_mc" currentFrame="19">
+    <DOMTimeline name="PlayerHit_mc">
       <layers>
-        <DOMLayer name="Hit" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Hit" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="16" keyMode="9728">
               <elements/>
             </DOMFrame>
             <DOMFrame index="16" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>
-                <DOMSymbolInstance libraryItemName="Foot_mc" selected="true" centerPoint3DX="14.2" centerPoint3DY="39.6">
+                <DOMSymbolInstance libraryItemName="Foot_mc" centerPoint3DX="14.2" centerPoint3DY="39.6">
                   <matrix>
                     <Matrix tx="14.2" ty="39.6"/>
                   </matrix>
@@ -33,7 +33,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Player" color="#4FFF4F" autoNamed="false">
+        <DOMLayer name="Player" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
               <elements>

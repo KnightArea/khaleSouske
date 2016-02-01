@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Player" itemID="56ab8722-000001de" linkageExportForAS="true" linkageClassName="ui.gamePlay.player.Player" lastModified="1454230106">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Player" itemID="56ab8722-000001de" linkageExportForAS="true" linkageClassName="ui.gamePlay.player.Player.PlayerHit_mc" lastModified="1454334278">
   <timeline>
     <DOMTimeline name="Player" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;-90&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>

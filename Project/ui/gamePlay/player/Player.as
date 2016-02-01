@@ -1,6 +1,9 @@
-package ui.gamePlay.player
+﻿package ui.gamePlay.player;
 {
 	import flash.display.MovieClip;
+	
+	import khalecouske.cod.Player;
+
 	public var PlayerHitMC : MovieClip;
 	public var FootMC : MovieClip;
 	
@@ -10,8 +13,10 @@ package ui.gamePlay.player
 		{
 			super();
 			this.stop();
+			
 			PlayerHitMC = this.getChildByName("PlayerHit_mc") as MovieClip;
 			FootMC = PlayerHitMC.getChildByName("Foot_mc") as MovieClip;
+		
 			
 		}
 	}
